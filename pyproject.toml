@@ -1,0 +1,9 @@
+[project]
+name = "microsoft-agent-framework"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "agent-framework>=1.0.0b251120",
+]
